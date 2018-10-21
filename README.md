@@ -4,7 +4,15 @@ As there are various apps in the Google play store with too many parameters, it 
 Therefore, we design this service to provide the company with an app ranking from the Google Play Store. Through machine learning, the service can predict the number of installations of the application in the future, which is beneficial to the company's advertising.
 
 ### Getting Started:
-
+![Alt text](./Screen Shot 2018-10-21 at 4.12.59 pm.png)
+![Alt text](./Screen Shot 2018-10-21 at 4.13.15 pm.png)
+![Alt text](./Screen Shot 2018-10-21 at 4.13.23 pm.png)
+![Alt text](./Screen Shot 2018-10-21 at 4.32.59 pm.png)
+![Alt text](./Screen Shot 2018-10-21 at 4.33.15 pm.png)
+![Alt text](./Screen Shot 2018-10-21 at 4.34.52 pm.png)
+![Alt text](./Screen Shot 2018-10-21 at 4.35.07 pm.png)
+![Alt text](./Screen Shot 2018-10-21 at 4.36.44 pm.png)
+![Alt text](./Screen Shot 2018-10-21 at 4.47.41 pm.png)
 ### API:
 ``` python
 @api.route('/register/<string:userName>/<string:password>')
