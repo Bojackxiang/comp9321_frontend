@@ -55,3 +55,19 @@ Flask_Cors==3.0.6
 pymongo==3.7.2
 scikit_learn==0.20.0
 
+### Install:
+Step 1:
+Cd to the direction folder ‘comp9321_frontend-master’
+Then install and start Angular 7 by
+```
+npm install
+npm install -g @angular/cli
+ng serve
+```
+Step 2:
+Cd to the direction folder ‘advertisementReco-master’
+Then input
+```
+python routers.py
+```
+
