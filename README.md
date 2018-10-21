@@ -1,4 +1,4 @@
-##Predict the installs of popular Apps under different categories in Google Play Store
+## Predict the installs of popular Apps under different categories in Google Play Store
 ### introduction:
 As there are various apps in the Google play store with too many parameters, it has become a problem for advertisers to choose a product that is worth to invest.
 Therefore, we design this service to provide the company with an app ranking from the Google Play Store. Through machine learning, the service can predict the number of installations of the application in the future, which is beneficial to the company's advertising.
@@ -7,7 +7,7 @@ Therefore, we design this service to provide the company with an app ranking fro
 Home Page:
 comp9321_frontend/Screen Shot 2018-10-21 at 4.12.59 pm.png
 Group members:
-![Alt text](./Screen Shot 2018-10-21 at 4.13.15 pm.png)
+![Alt text](./1.png)
 Show all categories:
 ![Alt text](./Screen Shot 2018-10-21 at 4.13.23 pm.png)
 Select a category:
