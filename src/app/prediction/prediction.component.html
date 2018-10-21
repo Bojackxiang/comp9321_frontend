@@ -1,0 +1,33 @@
+<div class="large-blank-space"></div>
+<div class="container">
+  <div class="row">
+
+    <div class="col-sm-6 offset-3">
+      <form>
+        <div class="form-group">
+          <label for="disabledTextInput">Rateings</label>
+          <input type="text" class="form-control" placeholder="Rateings" [(ngModel)]="rate" name="rates">
+        </div>
+        <div class="form-group">
+          <label for="disabledTextInput">Reviews</label>
+          <input type="text" class="form-control" placeholder="Reviews" [(ngModel)]="size" name="Reviews">
+        </div>
+        <div class="form-group">
+          <label for="disabledTextInput">Size</label>
+          <input type="text" class="form-control" placeholder="Size" [(ngModel)]="review" name="Size">
+        </div>
+        <div class="form-group">
+          <label for="disabledSelect">Category</label>
+          <select id="disabledSelect" class="form-control" [(ngModel)]="cate" name="cate">
+            <option *ngFor="let item of dataList">
+              {{item}}
+            </option>
+          </select>
+        </div>
+        <div class="checkbox">
+        </div>
+        <button type="submit" class="btn btn-primary" (click)="subform()">Submit</button>
+      </form>
+    </div>
+  </div>
+</div>

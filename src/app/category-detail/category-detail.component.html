@@ -1,0 +1,24 @@
+
+<div class="large-blank-space"></div>
+<div class="large-blank-space"></div>
+
+<div class="container">
+  <h3 class="title">top 10 download app</h3>
+  <div class="row">
+    <div class="col-sm-12">
+      <ul class="list-group">
+        <li class="list-group-item" *ngFor="let item of top10">
+          {{item.split('/')[0]}} -- {{item.split('/')[1]}}
+        </li>
+      </ul>
+      <div style="height: 500px; width: 1000px;">
+          <canvas id="barChart"></canvas>
+      </div>
+      <table>
+        <tr>
+          <td style="width: 700px;height: 50%"><canvas id="barChart"></canvas></td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</div>
