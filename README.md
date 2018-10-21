@@ -7,18 +7,18 @@ Therefore, we design this service to provide the company with an app ranking fro
 Home Page:
 ![Alt text](./image/1.png)
 Group members:
-
+![Alt text](./image/2.png)
 Show all categories:
-![Alt text](./Screen Shot 2018-10-21 at 4.13.23 pm.png)
+![Alt text](./image/3.png)
 Select a category:
-![Alt text](./Screen Shot 2018-10-21 at 4.32.59 pm.png)
+![Alt text](./image/4.png)
 Predict installs:
-![Alt text](./Screen Shot 2018-10-21 at 4.33.15 pm.png)
+![Alt text](./image/5.png)
 Registion and login:
-![Alt text](./Screen Shot 2018-10-21 at 4.34.52 pm.png)
-![Alt text](./Screen Shot 2018-10-21 at 4.35.07 pm.png)
-![Alt text](./Screen Shot 2018-10-21 at 4.36.44 pm.png)
-![Alt text](./Screen Shot 2018-10-21 at 4.47.41 pm.png)
+![Alt text](./image/6.png)
+![Alt text](./image/7.png)
+![Alt text](./image/8.png)
+![Alt text](./image/9.png)
 
 
 
@@ -33,7 +33,7 @@ get(self) #Input specific category returns its top ten downloads records.
 get(query) #Input the relevant parameters of the user's product and predict the download volume.
 ```
 ### Frame:
-![Alt text](./1540096983690.png)
+![Alt text](./image/10.png)
 - **Dataset**:
 dataset from  [Google Play Store Apps](https://www.kaggle.com/lava18/google-play-store-apps) in kaggle
 - **Data Cleaning**:
@@ -55,42 +55,6 @@ numpy==1.15.2
 Flask_Cors==3.0.6
 pymongo==3.7.2
 scikit_learn==0.20.0
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
