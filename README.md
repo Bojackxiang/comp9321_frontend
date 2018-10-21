@@ -55,14 +55,3 @@ Flask_Cors==3.0.6
 pymongo==3.7.2
 scikit_learn==0.20.0
 
-
-
-
-
-
-
-
-
-
-
-
