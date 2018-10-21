@@ -47,15 +47,17 @@ Multi-value regression
 Linear regression model
 
 ### Prerequisite:
-> pandas==0.23.4
+```
+pandas==0.23.4
 flask_restplus==0.12.1
 Flask==1.0.2
 numpy==1.15.2
 Flask_Cors==3.0.6
 pymongo==3.7.2
 scikit_learn==0.20.0
+```
 
-### Install:
+### Install and run:
 Step 1:
 Cd to the direction folder ‘comp9321_frontend-master’
 Then install and start Angular 7 by
