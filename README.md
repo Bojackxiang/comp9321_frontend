@@ -73,3 +73,6 @@ Then input
 python routers.py
 ```
 
+Step 3:
+Input ```127.0.0.1:4200``` in your broswer.
+
