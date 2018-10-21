@@ -5,9 +5,9 @@ Therefore, we design this service to provide the company with an app ranking fro
 
 ### Getting Started:
 Home Page:
-comp9321_frontend/Screen Shot 2018-10-21 at 4.12.59 pm.png
+![Alt text](./image/1.png)
 Group members:
-![Alt text](./1.png)
+
 Show all categories:
 ![Alt text](./Screen Shot 2018-10-21 at 4.13.23 pm.png)
 Select a category:
